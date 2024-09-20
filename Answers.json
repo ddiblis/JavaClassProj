@@ -1,0 +1,68 @@
+{
+  "Question 1" : {
+    "question" : "What is your stance on healthcare?",
+    "Answer" : "Healthcare is a right, and we should expand access through public options like Medicare for All."
+  },
+  "Question 2" : {
+    "question" : "How should the government address climate change?",
+    "Answer" : "Climate issues should be left to the free market and innovation, not government mandates."
+  },
+  "Question 3" : {
+    "question" : "What is your opinion on immigration?",
+    "Answer" : "Borders should be abolished, and everyone should have the right to move freely."
+  },
+  "Question 4" : {
+    "question" : "How should the government handle taxation?",
+    "Answer" : "All private property should be abolished, and resources should be distributed based on need."
+  },
+  "Question 5" : {
+    "question" : "What is your stance on gun control?",
+    "Answer" : "Guns should be controlled by the state and distributed only as needed."
+  },
+  "Question 6" : {
+    "question" : "How should the government approach education?",
+    "Answer" : "Education should be state-run and focused on building a class-conscious society."
+  },
+  "Question 7" : {
+    "question" : "What is your stance on minimum wage?",
+    "Answer" : "Wages should be controlled by the state, ensuring everyone has equal pay."
+  },
+  "Question 8" : {
+    "question" : "How should the government handle national security?",
+    "Answer" : "The state should support global revolution to overthrow capitalist systems."
+  },
+  "Question 9" : {
+    "question" : "What is your view on social welfare programs?",
+    "Answer" : "Social welfare should be universal and state-controlled, with no private wealth."
+  },
+  "Question 10" : {
+    "question" : "What is your stance on same-sex marriage?",
+    "Answer" : "Marriage should be abolished as a capitalist institution, replaced by communal living arrangements."
+  },
+  "Question 11" : {
+    "question" : "How should the government approach foreign aid?",
+    "Answer" : "Foreign aid should support revolutionary movements and anti-imperialist struggles."
+  },
+  "Question 12" : {
+    "question" : "What is your view on criminal justice reform?",
+    "Answer" : "The criminal justice system should be dismantled and replaced with community-based solutions."
+  },
+  "Question 13" : {
+    "question" : "How should the government address income inequality?",
+    "Answer" : "Income inequality should be abolished through the collective ownership of wealth."
+  },
+  "Question 14" : {
+    "question" : "What is your stance on corporate regulation?",
+    "Answer" : "Corporations should be abolished, and the means of production should be owned by the workers."
+  },
+  "Question 15" : {
+    "question" : "How should the government handle the economy?",
+    "Answer" : "The economy should be centrally planned and controlled by the state."
+  },
+  "Percentages" : {
+    "Democrat" : 6.666666666666667,
+    "Republican" : 0.0,
+    "Libertarian" : 6.666666666666667,
+    "Communist" : 86.66666666666667
+  }
+}

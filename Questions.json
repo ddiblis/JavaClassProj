@@ -1,0 +1,184 @@
+{
+  "questions": [
+    {
+      "question": "What is your stance on healthcare?",
+      "answers": {
+        "A": "Healthcare is a right, and we should expand access through public options like Medicare for All.",
+        "B": "We need to repeal and replace the Affordable Care Act with market-based solutions.",
+        "C": "Government should not be involved in healthcare; let the free market provide solutions.",
+        "D": "Healthcare should be fully nationalized and controlled by the state."
+      }
+    },
+    {
+      "question": "How should the government address climate change?",
+      "answers": {
+        "A": "The government should take aggressive action through regulations and green energy investments.",
+        "B": "Climate change policies should balance environmental protection with economic growth and jobs.",
+        "C": "Climate issues should be left to the free market and innovation, not government mandates.",
+        "D": "We must dismantle capitalism and replace it with a system that prioritizes environmental sustainability."
+      }
+    },
+    {
+      "question": "What is your opinion on immigration?",
+      "answers": {
+        "A": "We should create a path to citizenship for undocumented immigrants and keep families together.",
+        "B": "We need to secure the borders, enforce immigration laws, and prioritize American workers.",
+        "C": "Immigration policy should be liberalized with less government intervention.",
+        "D": "Borders should be abolished, and everyone should have the right to move freely."
+      }
+    },
+    {
+      "question": "How should the government handle taxation?",
+      "answers": {
+        "A": "We should raise taxes on the wealthy to fund social programs and reduce inequality.",
+        "B": "We need to cut taxes across the board to stimulate economic growth.",
+        "C": "Taxes should be minimal, only to fund essential government functions.",
+        "D": "All private property should be abolished, and resources should be distributed based on need."
+      }
+    },
+    {
+      "question": "What is your stance on gun control?",
+      "answers": {
+        "A": "We need stricter gun control laws to reduce gun violence, including background checks and bans on assault weapons.",
+        "B": "The Second Amendment rights should be protected, and gun ownership laws should remain as they are.",
+        "C": "Gun ownership is a personal freedom and should not be restricted by the government.",
+        "D": "Guns should be controlled by the state and distributed only as needed."
+      }
+    },
+    {
+      "question": "How should the government approach education?",
+      "answers": {
+        "A": "We should increase funding for public schools and make college tuition-free.",
+        "B": "We need to promote school choice and vouchers to give parents more options.",
+        "C": "Education should be privatized with less government involvement.",
+        "D": "Education should be state-run and focused on building a class-conscious society."
+      }
+    },
+    {
+      "question": "What is your stance on minimum wage?",
+      "answers": {
+        "A": "The minimum wage should be raised to $15 per hour or higher.",
+        "B": "Minimum wage laws hurt small businesses; the market should determine wages.",
+        "C": "There should be no minimum wage; wages should be determined by the free market.",
+        "D": "Wages should be controlled by the state, ensuring everyone has equal pay."
+      }
+    },
+    {
+      "question": "How should the government handle national security?",
+      "answers": {
+        "A": "We should focus on diplomacy and alliances, while using military force as a last resort.",
+        "B": "We need to strengthen our military and take a more aggressive stance against threats.",
+        "C": "National security should focus on non-interventionism and avoiding foreign entanglements.",
+        "D": "The state should support global revolution to overthrow capitalist systems."
+      }
+    },
+    {
+      "question": "What is your view on social welfare programs?",
+      "answers": {
+        "A": "Social welfare programs are essential for reducing poverty and should be expanded.",
+        "B": "Social welfare should be limited and encourage work, not dependency.",
+        "C": "Social welfare programs should be minimized, with charity handled by private organizations.",
+        "D": "Social welfare should be universal and state-controlled, with no private wealth."
+      }
+    },
+    {
+      "question": "What is your stance on same-sex marriage?",
+      "answers": {
+        "A": "Same-sex marriage is a right and should be protected by law.",
+        "B": "Marriage should be between a man and a woman, but civil unions for same-sex couples are acceptable.",
+        "C": "The government should not be involved in marriage; it's a personal matter.",
+        "D": "Marriage should be abolished as a capitalist institution, replaced by communal living arrangements."
+      }
+    },
+    {
+      "question": "How should the government approach foreign aid?",
+      "answers": {
+        "A": "We should increase foreign aid to support global development and humanitarian efforts.",
+        "B": "Foreign aid should be reduced and focused on strategic interests.",
+        "C": "Foreign aid should be eliminated; countries should be self-reliant.",
+        "D": "Foreign aid should support revolutionary movements and anti-imperialist struggles."
+      }
+    },
+    {
+      "question": "What is your view on criminal justice reform?",
+      "answers": {
+        "A": "We need to reform the criminal justice system to reduce incarceration rates and address racial disparities.",
+        "B": "The focus should be on law and order, with tougher penalties for crime.",
+        "C": "Criminal justice should prioritize restitution over incarceration.",
+        "D": "The criminal justice system should be dismantled and replaced with community-based solutions."
+      }
+    },
+    {
+      "question": "How should the government address income inequality?",
+      "answers": {
+        "A": "We need to implement progressive taxes and social programs to reduce income inequality.",
+        "B": "Economic growth and job creation are the best ways to reduce income inequality.",
+        "C": "Income inequality is a result of personal choices and should not be addressed by the government.",
+        "D": "Income inequality should be abolished through the collective ownership of wealth."
+      }
+    },
+    {
+      "question": "What is your stance on corporate regulation?",
+      "answers": {
+        "A": "Corporations should be regulated to protect workers, consumers, and the environment.",
+        "B": "We need to reduce regulations to allow businesses to thrive and create jobs.",
+        "C": "The government should not interfere with business; the free market will regulate itself.",
+        "D": "Corporations should be abolished, and the means of production should be owned by the workers."
+      }
+    },
+    {
+      "question": "How should the government handle the economy?",
+      "answers": {
+        "A": "We should have a mixed economy with strong social safety nets and regulation.",
+        "B": "We need a free-market economy with minimal government intervention.",
+        "C": "The economy should be entirely free from government control, with no regulations.",
+        "D": "The economy should be centrally planned and controlled by the state."
+      }
+    },
+    {
+      "question": "What is your view on freedom of speech?",
+      "answers": {
+        "A": "Freedom of speech is essential but should be limited when it harms others or spreads hate.",
+        "B": "Freedom of speech must be protected, even if the speech is offensive.",
+        "C": "Freedom of speech should be absolute with no government restrictions.",
+        "D": "Speech that threatens the revolution should be suppressed, while revolutionary ideas should be promoted."
+      }
+    },
+    {
+      "question": "How should the government approach drug policy?",
+      "answers": {
+        "A": "We should decriminalize marijuana and focus on treatment for drug addiction.",
+        "B": "Drug laws should be strictly enforced to protect communities.",
+        "C": "All drugs should be decriminalized; individuals have the right to make their own choices.",
+        "D": "Drugs should be regulated by the state and used to promote revolutionary consciousness."
+      }
+    },
+    {
+      "question": "What is your stance on military spending?",
+      "answers": {
+        "A": "We should reduce military spending and invest more in domestic programs.",
+        "B": "We need to maintain strong military spending to protect our national security.",
+        "C": "Military spending should be drastically cut, focusing on defense only.",
+        "D": "Military resources should be used to support global revolution and the defeat of imperialism."
+      }
+    },
+    {
+      "question": "How should the government approach privacy and surveillance?",
+      "answers": {
+        "A": "We need to balance privacy with security, with strict oversight of surveillance programs.",
+        "B": "Surveillance is necessary for national security, but should be targeted and controlled.",
+        "C": "The government should not be involved in surveillance; privacy is a fundamental right.",
+        "D": "Surveillance should be used to protect the revolution and ensure loyalty to the state."
+      }
+    },
+    {
+      "question": "What is your view on trade policy?",
+      "answers": {
+        "A": "We should support fair trade agreements that protect workers and the environment.",
+        "B": "We need to renegotiate trade deals to prioritize American jobs and industries.",
+        "C": "Trade should be free and unrestricted by government interference.",
+        "D": "Trade should be controlled by the state and used to promote international socialism."
+      }
+    }
+  ]
+}
